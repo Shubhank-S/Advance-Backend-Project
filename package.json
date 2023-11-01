@@ -1,0 +1,20 @@
+{
+  "name": "backend-ki-charcha",
+  "version": "1.0.0",
+  "description": "An Advanced backend project in Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "js",
+    "Express",
+    "js",
+    "MongoDB",
+    "Rest-API"
+  ],
+  "author": "Shubhank Sharma",
+  "license": "ISC"
+}
