@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "An Advanced backend project in Node js",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   "server": "nodemon src/index.js"
   },
   "keywords": [
     "Javascript",
@@ -16,5 +17,8 @@
     "Rest-API"
   ],
   "author": "Shubhank Sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
