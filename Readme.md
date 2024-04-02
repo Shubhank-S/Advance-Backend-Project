@@ -29,4 +29,4 @@ index.js ---->
 
 <!-- Prettier [package] -->
 
-example jab hum team me kam krte he or code base me kahi pr kisine semi colan lagaaya he or kisine nahi lagaya he to jab git pr code push hota he to bahut confilcts aate he ......in conflicts ko avoid krne ke liye prettier extension or uska set up jaruuri he
+<!-- example jab hum team me kam krte he or code base me kahi pr kisine semi colan lagaaya he or kisine nahi lagaya he to jab git pr code push hota he to bahut confilcts aate he ......in conflicts ko avoid krne ke liye prettier extension or uska set up jaruuri he -->
